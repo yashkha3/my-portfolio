@@ -1,4 +1,4 @@
-import aboutImg from '../assets/yashKhatriSecondProfile.jpg'
+import aboutImg from '../assets/yashKhatriSecondProfile.png'
 import { ABOUT_TEXT } from '../constants'
 import { motion } from 'framer-motion'
 
