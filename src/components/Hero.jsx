@@ -1,5 +1,5 @@
-import { HERO_CONTENT, NAME, POST } from "../constants"
 import profilePic from "../assets/yashKhatriProfile.jpg"
+import { HERO_CONTENT, NAME, POST } from "../constants"
 import { motion } from "framer-motion"
 
 const container = delay => ({
@@ -49,6 +49,7 @@ const Hero = () => {
                 src={profilePic}
                 alt="profilePic"
                 className="rounded-md"
+                loading="lazy"
                 />
             </div>
         </div>

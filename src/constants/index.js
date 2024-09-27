@@ -8,8 +8,6 @@ import project7 from "../assets/projects/project-7.webp";
 import project8 from "../assets/projects/project-8.png";
 import project9 from "../assets/projects/project-9.png";
 
-
-
 export const NAME = `Yash Khatri`;
 
 export const POST = `Full Stack Developer`;
